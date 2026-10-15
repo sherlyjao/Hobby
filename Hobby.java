@@ -1,8 +1,9 @@
 public class Hobby {
     public static void main(String[] args) {
-        displayTraineeHobbyA();
+        // displayTraineeHobbyA();
         displayTraineeHobbyB();
-        displayTraineeHobbyC();
+        // displayTraineeHobbyC();
+        // displayTraineeHobbyD();
     }
 
     public static void displayTraineeHobbyB() {
