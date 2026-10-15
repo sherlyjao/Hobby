@@ -4,4 +4,8 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
     }
+
+    public static void displayTraineeHobbyB() {
+        System.out.println("Trainee B's Hobby: Looking for Change");  
+    }
 }
